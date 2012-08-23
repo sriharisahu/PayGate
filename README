@@ -1,0 +1,8 @@
+The Payment Gateway is an integral part of any e-Commerce business. It enables the site to accept payment and realize
+the value of the payment. The payment gateway creates a unique Transaction Id and securely handles all payment related
+information as per the PCI-DSS 2.0 norms.
+
+1. It keeps a record in active search for a period of 6 months and then archives the transaction.
+2. All transactions are reversible as per the terms and conditions set by PCI-DSS v2.0
+3. All transactions that are carried out by this payment gateway are completely Atomic and follow CRUD principles. 
+
