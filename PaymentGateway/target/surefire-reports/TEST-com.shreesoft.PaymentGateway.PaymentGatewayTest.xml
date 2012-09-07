@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite failures="0" time="0.014" errors="0" skipped="0" tests="1" name="com.shreesoft.PaymentGateway.PaymentGatewayTest">
+<testsuite failures="0" time="0.016" errors="0" skipped="0" tests="1" name="com.shreesoft.PaymentGateway.PaymentGatewayTest">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="sun.boot.library.path" value="/usr/lib/jvm/jdk1.7.0/jre/lib/i386"/>
@@ -14,7 +14,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="sun.os.patch.level" value="unknown"/>
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
-    <property name="user.dir" value="/home/srihari/workspace/PaymentGateway"/>
+    <property name="user.dir" value="/home/srihari/workspace/PaymentGateway/PaymentGateway"/>
     <property name="java.runtime.version" value="1.7.0-b147"/>
     <property name="java.awt.graphicsenv" value="sun.awt.X11GraphicsEnvironment"/>
     <property name="java.endorsed.dirs" value="/usr/lib/jvm/jdk1.7.0/jre/lib/endorsed"/>
@@ -30,7 +30,7 @@
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.class.version" value="51.0"/>
     <property name="sun.management.compiler" value="HotSpot Tiered Compilers"/>
-    <property name="os.version" value="2.6.32-21-generic"/>
+    <property name="os.version" value="2.6.32-42-generic"/>
     <property name="user.home" value="/home/srihari"/>
     <property name="user.timezone" value="Asia/Kolkata"/>
     <property name="java.awt.printerjob" value="sun.print.PSPrinterJob"/>
@@ -59,5 +59,5 @@
     <property name="sun.desktop" value="gnome"/>
     <property name="sun.cpu.isalist" value=""/>
   </properties>
-  <testcase time="0.001" classname="com.shreesoft.PaymentGateway.PaymentGatewayTest" name="testApp"/>
+  <testcase time="0.002" classname="com.shreesoft.PaymentGateway.PaymentGatewayTest" name="testApp"/>
 </testsuite>

@@ -6,3 +6,10 @@ information as per the PCI-DSS 2.0 norms.
 2. All transactions are reversible as per the terms and conditions set by PCI-DSS v2.0
 3. All transactions that are carried out by this payment gateway are completely Atomic and follow CRUD principles. 
 
+==Tech Overview==
+This project is being built on bleeding edge technology. The specific requirements are:
+* JDK 7.0
+* Hibernate ORM 4.0
+* Maven 3.0.4
+
+*Target AS - JBOSS AS 7.1
